@@ -1,0 +1,32 @@
+Package: BrainGENIE
+Title: [JON TO FILL OUT]
+Version: 0.0.1
+URL: http://github.com/hessJ/BrainGENIE
+BugReports: http://github.com/hessJ/BrainGENIE/issues
+Authors@R: c(
+    person("Jon", "Hess", email = "hessjlmsg@gmail.com", role = c("aut", "cre")),
+    person("Thomas", "Quinn", email = "contacttomquinn@gmail.com", role = c("aut"))
+    )
+Description: [JON TO FILL OUT]
+License: GPL-2
+LazyData: true
+VignetteBuilder: knitr
+RoxygenNote: 7.0.2
+Encoding: UTF-8
+Depends:
+    methods,
+    R (>= 3.2.2)
+Imports:
+    stats,
+    utils
+Suggests:
+    data.table,
+    plyr,
+    glmnet,
+    WGCNA,
+    reshape2,
+    broom,
+    rtracklayer,
+    RNOmni,
+    edgeR,
+    limma
